@@ -11,15 +11,15 @@
             "required": true
         },
         "BOT_TOKEN": {
-            "description": "Your bot token.",
+            "description": "7583721555:AAEbZ-rx9KsHEn0xRGVpr7lQQ9EU8Dz7AiA",
             "required": true
         },
         "API_ID": {
-            "description": "Get this value from https://my.telegram.org",
+            "description": "21438467",
             "required": true
         },
         "API_HASH": {
-            "description": "Get this value from https://my.telegram.org",
+            "description": "320d16934ede2ce14fb4e1f0475e5e7e",
             "required": true
         },
         "CHANNELS": {
@@ -27,15 +27,15 @@
             "required": false
         },
         "ADMINS": {
-            "description": "Username or ID of Admin. Separate multiple Admins by space.",
+            "description": "5938629062",
             "required": true
         },
         "SHORT_API": {
-            "description": "Api Key Of shortner You Use.",
+            "description": "232bab9ce253c4913085f9e879ad95f216c4c525",
             "required": false
         },
         "SHORT_URL": {
-            "description": "Url of shortner site you use.",
+            "description": "http://shortxlinks.com",
             "required": false
         },
         "PICS": {
@@ -43,7 +43,7 @@
             "required": false
         },
         "LOG_CHANNEL": {
-            "description": "Bot Logs,Give a channel id with -100xxxxxxx",
+            "description": "-1002459632109",
             "required": true                              
         },
         "AUTH_CHANNEL": {
@@ -61,7 +61,7 @@
             "required": false
         },
         "DATABASE_URL": {
-            "description": "mongoDB URI.",
+            "description": "mongodb+srv://mnn38347:G5keQfhi5hOxdbTc@cluster0.mxlll.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
             "required": true
         },
         "DATABASE_NAME": {
